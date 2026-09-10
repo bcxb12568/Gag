@@ -1,0 +1,6 @@
+{
+  "name": "Cyber-Glitch Prank Hub",
+  "description": "Stealth prank link generator with dynamic fake themes, realistic glitch traps, custom audio loops, and victim click tracker.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
